@@ -7,6 +7,10 @@
     margin-bottom: 40px;
 }
 
+.section .mainTitle:first-child {
+    margin-top: 50px;
+}
+
 .section .subTitle { 
     font-size: 25px;
     color: var(--mainColor);
